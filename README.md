@@ -1,6 +1,6 @@
 # Цифровая поваренная книга
 
-![Label](https://github.com/Frostbite1242/CyberCookBook/blob/main/assets/images/logo.png)
+
 
 Прототип цифрового кухонного помошника.
 Представляет собой интерфейс, который принимает картинку,
